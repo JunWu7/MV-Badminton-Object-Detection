@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-__author__ = "ITRI-EOSL-R300 A30335-Rachel"
+__author__ = "Group 1"
 
 import gradio as gr
 import requests
