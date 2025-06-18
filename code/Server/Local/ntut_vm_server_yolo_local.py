@@ -10,7 +10,7 @@ from typing import List
 import uvicorn
 from datetime import datetime
 import traceback
-from ntut_yolo_inf import YOLO_inf
+from ntut_yolo_inf_local import YOLO_inf
 
 app = FastAPI()
 
